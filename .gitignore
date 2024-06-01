@@ -5,3 +5,5 @@ logs/
 dev.duckdb
 .user.yml
 package-lock.yml
+.cache/
+__pycache__/

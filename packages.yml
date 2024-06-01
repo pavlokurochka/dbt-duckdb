@@ -5,8 +5,8 @@ packages:
 #     version: 2.6.3
 #   - package: calogica/dbt_expectations
 #     version: 0.10.3
-  - package:  dbt-labs/audit_helper
-    version: 0.11.0
+  # - package:  dbt-labs/audit_helper
+  #   version: 0.11.0
   # - git: "https://github.com/dbt-labs/dbt-labs-experimental-features" # git URL
   #   subdirectory: "materialized-views" # name of subdirectory containing `dbt_project.yml`
   #   revision: 0.0.1
